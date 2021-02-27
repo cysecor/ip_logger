@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^([^\.]+)\.jpg$ http://localhost:85/redirect/image.php [NC,L]
+RewriteRule ^([^\.]+)\.jpg$ http://OVDJE_TVOJ_URL/image.php [NC,L]
